@@ -2,8 +2,7 @@
 
 
 ## ✏️ About:
-This project is a factory of Pac Men. The user will be able to create as many PacMen as they want; when a PacMan hits the edge of the screen it will bounce.  
-The page has two buttons **Add PacMan** and **Start Game**. The first button creates a PacMan in a random position and with a random velocity, and the second button initiates the PacMen movement. The user can add a PackMan at any time. 
+This project is a factory of Pac Men. The user will be able to create as many PacMen as they want; when a PacMan hits the edge of the screen it will bounce. The page has two buttons **Add PacMan** and **Start Game**. The first button creates a PacMan in a random position and with a random velocity, and the second button initiates the PacMen movement. The user can add a PackMan at any time. 
 
 This project was developed as part of the activities of the "Profesional Certificate in Coding: Fullstack Development with MERN - The Massachusetts Institute of Thechnology" course.   
 
