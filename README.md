@@ -3,7 +3,7 @@
 
 ## ✏️ About:
 
-
+This project is a factory of PacMen. The page has two buttons Add **-PacMan-** and Start Game
 This project was developed as part of the activities of the "Profesional Certificate in Coding: Fullstack Development with MERN - The Massachusetts Institute of Thechnology" course.   
 
 ## 🏁 How to Run: 
