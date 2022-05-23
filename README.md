@@ -15,6 +15,9 @@ Otherwise click on the project demo to open the project on the borwser.
 
 3. Click on the **Start Game** button to start PacMen movement.
 
+### Demo
+[PacMen](https://ldfandinor.github.io/PackMen/)
+
 
 ## 🚀 Improvements:
 
